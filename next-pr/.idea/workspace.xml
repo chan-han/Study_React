@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e0763e-6747-4977-9b51-aad2d0cdff15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/next-pr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/[id].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/posts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-tutorial/src/modules/counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial/src/modules/counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-tutorial/src/modules/todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial/src/modules/todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607911058849</updated>
       <workItem from="1607911062374" duration="1912000" />
+      <workItem from="1607954910214" duration="1725000" />
     </task>
     <servers />
   </component>
@@ -75,6 +69,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
